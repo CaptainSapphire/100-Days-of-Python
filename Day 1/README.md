@@ -1,5 +1,5 @@
 # Day 1 
-An introduction to Python. 
+An introduction to Python, Replit, and print statements. 
 
 ## Lesson
 
