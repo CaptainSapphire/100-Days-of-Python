@@ -1,5 +1,5 @@
 # Day 10
-A tip calculator- a necesity if you are learning to code. 
+A tip calculator- a necesity if you are learning to code. Wait! Nevermind- it's a split the bill calculator. Even more important (I say this unironically).
 ## Lesson Summary
 No lesson. They do offer some background on how to do some tip math before hand and some practice. 
 ## Challenge Directions
