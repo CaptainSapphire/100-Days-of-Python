@@ -1,5 +1,5 @@
 # Day 4
-A project day.\
+A project day.
 ## Lesson Summary
 There was no lesson, this involved using what we learned up to this point. 
 **Directions:**\
