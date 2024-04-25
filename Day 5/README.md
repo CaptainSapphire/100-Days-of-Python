@@ -14,7 +14,7 @@ If the condition is not met with the if statement, then we want the computer to 
 Likewise, if the condition is met in the if statement, then the else bit is ignored by the computer. 
 The else statement must be the first thing unindented after the if statement and in line with it.
 
-## Directions for the Challenge
+## Challenge Directions
 1. Ask your users a series of questions that identify if they're one of the characters in the world you have created.
 2. Add multiple if statements to check the result of each question.
 3. Make sure to have a final print if they haven't selected any of the characters so far.
