@@ -1,5 +1,5 @@
 # Day 7
-A lesson day dedicated to learning nesting in Python. 
+A lesson day dedicated to learning nesting in Python. I did mildly alter the directions for fun, doing holidays instead of show/movie/interest. 
 ## Lesson Summary
 Nesting is where we put an if statement within an `if` statement using the power of indenting.
 The second `if` statement within the first `if` statement must be indented and its `print` statement needs to be indented one more time.
